@@ -1,0 +1,15 @@
+E:\Seminar7CSharp\Seminar7CSharp\bin\Debug\net7.0\Seminar7CSharp.exe
+E:\Seminar7CSharp\Seminar7CSharp\bin\Debug\net7.0\Seminar7CSharp.deps.json
+E:\Seminar7CSharp\Seminar7CSharp\bin\Debug\net7.0\Seminar7CSharp.runtimeconfig.json
+E:\Seminar7CSharp\Seminar7CSharp\bin\Debug\net7.0\Seminar7CSharp.dll
+E:\Seminar7CSharp\Seminar7CSharp\bin\Debug\net7.0\Seminar7CSharp.pdb
+E:\Seminar7CSharp\Seminar7CSharp\obj\Debug\net7.0\Seminar7CSharp.csproj.AssemblyReference.cache
+E:\Seminar7CSharp\Seminar7CSharp\obj\Debug\net7.0\Seminar7CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Seminar7CSharp\Seminar7CSharp\obj\Debug\net7.0\Seminar7CSharp.AssemblyInfoInputs.cache
+E:\Seminar7CSharp\Seminar7CSharp\obj\Debug\net7.0\Seminar7CSharp.AssemblyInfo.cs
+E:\Seminar7CSharp\Seminar7CSharp\obj\Debug\net7.0\Seminar7CSharp.csproj.CoreCompileInputs.cache
+E:\Seminar7CSharp\Seminar7CSharp\obj\Debug\net7.0\Seminar7CSharp.dll
+E:\Seminar7CSharp\Seminar7CSharp\obj\Debug\net7.0\refint\Seminar7CSharp.dll
+E:\Seminar7CSharp\Seminar7CSharp\obj\Debug\net7.0\Seminar7CSharp.pdb
+E:\Seminar7CSharp\Seminar7CSharp\obj\Debug\net7.0\Seminar7CSharp.genruntimeconfig.cache
+E:\Seminar7CSharp\Seminar7CSharp\obj\Debug\net7.0\ref\Seminar7CSharp.dll
